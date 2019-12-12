@@ -2,9 +2,9 @@ import java.awt.*;
 import java.util.Scanner;
 
 /*
-    ~~~~~~~~~~~~~~~~~~~~~~~~~VERSION 1.1~~~~~~~~~~~~~~~~~~~~~~~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~VERSION 1.2~~~~~~~~~~~~~~~~~~~~~~~~~
     What's New???
-    --- Absolutely Nothing :)
+    --- Commit Name :)
  */
 
 public class Converter {
