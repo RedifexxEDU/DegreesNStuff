@@ -1,6 +1,12 @@
 import java.awt.*;
 import java.util.Scanner;
 
+/*
+    ~~~~~~~~~~~~~~~~~~~~~~~~~VERSION 1.1~~~~~~~~~~~~~~~~~~~~~~~~~
+    What's New???
+    --- Absolutely Nothing :)
+ */
+
 public class Converter {
     public static void menu() {
         System.out.println("------- Conversions -------");
